@@ -10,5 +10,10 @@ hello, git. hello gitHub
 hello, git. hello gitHub
 hello, git. hello gitHub
 hello, git. hello gitHub
+<<<<<<< HEAD
 hello, git. hello gitHub master test
 hello, git. hello gitHub
+=======
+hello, git. hello gitHub
+hello, git. hello gitHub hot-fix test
+>>>>>>> hot-fix
